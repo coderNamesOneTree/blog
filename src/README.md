@@ -10,12 +10,12 @@ bgImageStyle:
 heroText: 程序员一棵树
 tagline: JAVA学习+日常提高，让我们一起进步！
 actions:
-  - text: 使用指南
+  - text: 开始阅读
     icon: lightbulb
     link: ./demo/
     type: primary
 
-  - text: 文档
+  - text: 所有文档
     link: ./guide/
 
 
